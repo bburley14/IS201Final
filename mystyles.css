@@ -1,0 +1,48 @@
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+    color: navy;
+    }
+.bold{
+    font-weight: bolder;
+    text-align: center;
+    font-style: normal;
+}
+
+li{
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+.cosmo{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.pp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    }
+
+    .center{
+       display: inline-block;
+       vertical-align: top;
+
+    }
+
+.daddy{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    color: darkred;
+}
+.background{
+    background-color: deepskyblue;
+}
